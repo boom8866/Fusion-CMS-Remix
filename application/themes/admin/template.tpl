@@ -180,8 +180,8 @@
 					</nav>
 
 					<article>
-						<h1>Welcome to FusionCMS</h1>
-						<b>Dear customer</b>, We are happy to introduce you to the next major version of our very own FusionCMS. Years have passed since the initial release and the system has grown better and stronger for every version. The core of this beast is powered by clean, object oriented PHP code, kept in shape by the incredibly powerful CodeIgniter framework. On the front we also make sure to amaze your visitors with more Javascript-powered live interactions than ever before.
+						<h1>Welcome to Fusion CMS Remix</h1>
+						<b>Dear User</b>, I`Am happy to introduce you to Fusion CMS Remix. The core of this beast is powered by clean, object oriented PHP code, kept in shape by the incredibly powerful CodeIgniter framework. On the front we also make sure to amaze your visitors with more Javascript-powered live interactions than ever before.
 						<div class="clear"></div>
 					</article>
 					<div class="spacer"></div>
@@ -200,18 +200,18 @@
 		<footer>
 			<div class="center_1020">
 				<div class="divider2"></div>
-				<aside id="logo"><a href="#" class="logo"></a></aside>
+				<aside id="logo"><a href="http://evilkingdom.x10host.com/" class="logo"></a></aside>
 				<div class="divider"></div>
 				<aside id="links">
-					<a href="http://dawnbrightsu.ca/" target="_blank">Dawnbrightsu</a>
-					<a href="https://www.dropbox.com/sh/aywltvd7tfygkec/AABS9eE1c7TFtRwLiOw_qdkya?dl=0" target="_blank">Modules</a>
-					<a href="https://www.dropbox.com/sh/90zrpibugqg0qtq/AADiXmElyNgjOlbI-ImGUXena?dl=0" target="_blank">Themes</a>
-					<a href="https://github.com/Dawnbrightsu/FusionCMS/issues" target="_blank">Support</a>
+					<a href="http://evilkingdom.x10host.com/" target="_blank">DJBoxer</a>
+					<a href="http://evilkingdom.x10host.com/" target="_blank">Modules</a>
+					<a href="http://evilkingdom.x10host.com/" target="_blank">Themes</a>
+					<a href="https://github.com/DJBoxer/FusionCMS-Remix" target="_blank">Support</a>
 				</aside>
 				<div class="divider"></div>
 				<aside id="html5">
 					<a href="http://www.w3.org/html/logo/" data-tip="This website makes use of the next generation of web technologies">
-						<img src="{$url}application/themes/admin/images/html5.png">
+						<img src="images/html5.png">
 					</a>
 				</aside>
 				<div class="divider"></div>
