@@ -211,7 +211,7 @@
 				<div class="divider"></div>
 				<aside id="html5">
 					<a href="http://www.w3.org/html/logo/" data-tip="This website makes use of the next generation of web technologies">
-						<img src="images/html5.png">
+						<img src="{$url}application/themes/admin/images/html5.png"> 
 					</a>
 				</aside>
 				<div class="divider"></div>
