@@ -92,18 +92,24 @@
 		<footer>
 			<div class="center_1020">
 				<div class="divider2"></div>
-				<aside id="logo"><a href="http://evilkingdom.x10host.com/" class="logo"></a></aside>
+				<aside id="logo"><a href="#" class="logo"></a></aside>
 				<div class="divider"></div>
 				<aside id="links">
-					<a href="http://evilkingdom.x10host.com/" target="_blank">DJBoxer</a>
-					<a href="http://evilkingdom.x10host.com/" target="_blank">Modules</a>
-					<a href="http://evilkingdom.x10host.com/" target="_blank">Themes</a>
-					<a href="https://github.com/DJBoxer/FusionCMS-Remix" target="_blank">Support</a>
+					<a href="http://fusion-hub.com/" target="_blank">FusionHub</a>
+					<a href="http://fusion-hub.com/modules" target="_blank">Modules</a>
+					<a href="http://fusion-hub.com/themes" target="_blank">Themes</a>
+					<a href="http://fusion-hub.com/support" target="_blank">Support</a>
+				</aside>
+				<div class="divider"></div>
+				<aside id="twitter">
+					<h1>Follow us on Twitter!</h1>
+					<div id="twitter_icon"></div>
+					<a href="http://twitter.com/FusionHub" target="_blank">@FusionHub</a>
 				</aside>
 				<div class="divider"></div>
 				<aside id="html5">
 					<a href="http://www.w3.org/html/logo/" data-tip="This website makes use of the next generation of web technologies">
-						<img src="{$url}application/themes/admin/images/html5.png"> 
+						<img src="{$url}application/themes/admin/images/html5.png">
 					</a>
 				</aside>
 				<div class="divider"></div>
@@ -111,3 +117,4 @@
 			</div>
 		</footer>
 	</body>
+</html>

@@ -1,8 +1,6 @@
 To Do...
 ----------------------
-* Remove persian crap.
-* Add more/missing expansions
-* theme
+* theme 80%
 * modules
 * broken links
 * fix DB
@@ -12,3 +10,5 @@ To Do...
 
 Completed....
 -------------
+* Remove persian crap. ✔
+* Add more/missing expansions

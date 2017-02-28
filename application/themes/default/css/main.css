@@ -133,7 +133,7 @@ a img {
 	display:block;
 	font-family:MuseoSlab;
 	font-size:16px;
-	color:#cf9139;
+	color:#2acc25;
 	padding:22px 26px;
 	border-right:1px solid rgba(14,24,32,0.5);
 	border-left:1px solid rgba(7,7,7,0.5);
@@ -185,7 +185,7 @@ a img {
 	width:284px;
 	padding-top:13px;
 	text-align:center;
-	color:#cf9139;
+	color:#2acc25;
 	font-size:14px;
 	font-family:MuseoSlab;
 }
@@ -198,6 +198,7 @@ a img {
 	background-color:rgba(10,16,22,0.3);
 }
 
+/* color for font -- menu left */
 #left #left_menu li a {
 	display:block;
 	padding:10px;
@@ -210,8 +211,9 @@ a img {
 	margin-right:15px;
 }
 
+/* color for font hover -- menu left .. default was #2acc25 */
 #left #left_menu li a:hover {
-	color:#cf9139;
+	color:#2ACC25;
 	padding-left:40px;
 }
 
@@ -251,7 +253,7 @@ a img {
 	width:734px;
 	padding-top:10px;
 	text-align:center;
-	color:#cf9139;
+	color:#2acc25;
 	font-size:18px;
 	font-family:MuseoSlab;
 	display:block;
